@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    background: white;
+    padding: 20px;
+}
+
+input{
+    margin-bottom:10px;
+}
+
+textarea{
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: red;
+}
