@@ -1,9 +1,17 @@
+head{
+    background: black;
+}
 body{
     font-family: sans-serif;
-    background: white;
-    padding: 20px;
+    background: #F2F2F2;
+    
 }
-
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
 input{
     margin-bottom:10px;
 }
@@ -11,7 +19,13 @@ input{
 textarea{
     margin-bottom: 10px;
 }
-
 button{
     background-color: red;
+}
+#black-header{
+    background-color: black;
+    max-height: 25%;
+}
+#text-block{
+    margin: 20%;
 }

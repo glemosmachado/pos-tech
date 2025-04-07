@@ -14,7 +14,7 @@
     let firstName         = "Gabriel"
     let age               = 27
     //Explicit
-    let isAlive: boolean = true
+    let isAlive: boolean  = true
     let height: number    = 1.84
 
     console.log("My name is:", firstName, ", I'm ", age, " years old!");
